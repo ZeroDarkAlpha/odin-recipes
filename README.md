@@ -8,7 +8,7 @@
 - "Odin Recipes" See my repo "Recipes"
 - Additional reading(s) within TOP
 
-__
+\_\_
 
 ## Self Reflection
 
@@ -18,9 +18,9 @@ parent and child tags.
 I am presently working on my Odin Project recipes, finding it somewhat mundane.
 I look forward to when I can incorporate some CSS and JS into this!
 
-__
+\_\_
 
-## Looking Ahead!
+## Looking Ahead
 
 I would like to jump on CSS and JS as soon as possible. Adding some script functionality to my front-end would be nice!
-I'm also hoping this job offer-like situation pulls through. It's my dream to work formally in IT. Rather than struggle as a freelancer as I lack experience and network growth. 
+I'm also hoping this job offer-like situation pulls through. It's my dream to work formally in IT. Rather than struggle as a freelancer as I lack experience and network growth.
